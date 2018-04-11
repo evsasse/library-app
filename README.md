@@ -6,8 +6,8 @@
 * Run command below on terminal (in project folder)
   * rails s
 
-* Go to
-  * http://127.0.0.1:3000/books
+* Go to tests (Books hardcoded)
+  * http://127.0.0.1:3000/books/tests
 
 * Check Service from terminal - Run commands below
   * irb
