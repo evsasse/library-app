@@ -7,7 +7,7 @@
   * rails s
 
 * Go to tests (Books hardcoded)
-  * http://127.0.0.1:3000/books/tests
+  * http://127.0.0.1:3000/books/hardcoded-test
 
 * Check Service from terminal - Run commands below
   * irb

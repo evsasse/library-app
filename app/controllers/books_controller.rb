@@ -1,5 +1,5 @@
 class BooksController < ApplicationController
-  def tests
+  def hardcoded_test
     books = [
       { id: 1, title: 'Java How To Program', author: 'Deitel & Deitel', edition_year: '2007' },
       { id: 2, title: 'Patterns of Enterprise Application Architecture', author:'Martin Fowler', edition_year: '2002' },
