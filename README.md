@@ -21,7 +21,9 @@ $ bundle install
 $ rails s
 ```
 
-4. Send a POST to http://127.0.0.1:3000/books/do_ordering
+4. Open http://127.0.0.1:3000
+
+5. Send a POST to http://127.0.0.1:3000/books/do_ordering - (Postman)
 ```
 {
   "books": [
