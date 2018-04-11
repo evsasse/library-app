@@ -1,4 +1,7 @@
 class BooksController < ApplicationController
+  def index
+  end
+
   def do_ordering
     @books = BookOrderingService.new(params[:books]).do_ordering
 
