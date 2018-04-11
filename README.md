@@ -34,3 +34,10 @@ $ rails s
   ]
 }
 ```
+
+6. The application.yml file contains attributes and yours directions. Replace the informations on file using the data below to change the order and directions.
+```
+book:
+  author: asc
+  title: desc
+```
